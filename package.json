@@ -1,0 +1,27 @@
+{
+    "name": "w3.how-to",
+    "version": "0.1.0",
+    "description": "a collection of simple demos of W3 How To",
+    "main": "index.html",
+    "scripts": {
+        "test": "hello w3.how-to"
+    },
+    "keywords": [
+    "w3",
+    "html",
+    "css",
+    "js"
+  ],
+    "author": "yinchao",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-jshint": "^2.0.0",
+        "gulp-ruby-sass": "^2.0.6",
+        "gulp-server-livereload": "^1.7.4",
+        "gulp-sourcemaps": "^1.6.0",
+        "gulp-webserver": "^0.9.1",
+        "jshint": "^2.9.2",
+        "jshint-stylish": "^2.2.0"
+    }
+}
