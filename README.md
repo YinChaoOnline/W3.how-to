@@ -16,33 +16,33 @@
 - Slideshow
 
 ##TODOs
-Slideshow
-Google Maps
-Calendar
-Animated Buttons
-Modal Boxes
-Modal Images
-JS Animations
-Progress Bars
-Tooltips
-Hover Dropdowns
-Click Dropdowns
-Responsive Tables
-HTML Includes
-Image Effects
-Loader
-Menu Icon
-Accordion
-Tabs
-Contact Chips
-Pagination
-Animated Search
-Top Navigation
-Fullscreen Navigation
-Side Navigation
-Icon Bar
-Alerts
-Toggle Switch
-Scroll Drawing
+- Slideshow
+- Google Maps
+- Calendar
+- Animated Buttons
+- Modal Boxes
+- Modal Images
+- JS Animations
+- Progress Bars
+- Tooltips
+- Hover Dropdowns
+- Click Dropdowns
+- Responsive Tables
+- HTML Includes
+- Image Effects
+- Loader
+- Menu Icon
+- Accordion
+- Tabs
+- Contact Chips
+- Pagination
+- Animated Search
+- Top Navigation
+- Fullscreen Navigation
+- Side Navigation
+- Icon Bar
+- Alerts
+- Toggle Switch
+- Scroll Drawing
 
 
